@@ -10,4 +10,5 @@ parameters:
     mailer_user: null
     mailer_password: null
     secret: 406a7996cd52823c1d06cdb2e10e7b19534113d7
-    app_webmaster: 'Alexis Lodygenky'
+    app_webmaster: "Alexis Lodygensky"
+    locale: fr
